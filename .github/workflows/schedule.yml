@@ -1,0 +1,33 @@
+name: Send Post
+
+on:
+  schedule:
+    - cron: "0 13 * * 1-5"
+    - cron: "0 12 * * 6,0"
+  workflow_dispatch:
+
+jobs:
+  posting:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with: 
+          ruby-version: 3.4
+          bundler-cache: true
+      - name: Posting
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          ADMIN_TELEGRAM_ID: ${{ secrets.MY_TG_ID }}
+        run: |
+          bundle exec inat-channel -c sverdl.yml
+      - name: Back push
+        uses: jekyll-is/action-jekyll-is-backpush@v1
+        with:
+          label: 'iNat SV Post'
+          telegram-bot-token: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          telegram-user-id: ${{ secrets.MY_TG_ID }}
