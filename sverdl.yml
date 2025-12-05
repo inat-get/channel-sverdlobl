@@ -2,7 +2,7 @@
 retries: 10
 pool_file: 'data/pool.json'
 sent_file: 'data/sent.json'
-lock_file: 'data/test.lock'
+lock_file: 'data/data.lock'
 
 log_level: debug
 
