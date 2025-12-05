@@ -9,7 +9,7 @@ GEM
       net-http (~> 0.5)
     faraday-retry (2.3.2)
       faraday (~> 2.0)
-    inat-channel (0.8.0)
+    inat-channel (0.8.0.2)
       faraday (~> 2.14)
       faraday-retry (~> 2.3)
     json (2.17.1)
@@ -23,7 +23,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  inat-channel (~> 0.8)
+  inat-channel (~> 0.8.0.2)
 
 BUNDLED WITH
    2.6.9
