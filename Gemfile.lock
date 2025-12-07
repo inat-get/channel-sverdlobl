@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    crass (1.0.6)
     faraday (2.14.0)
       faraday-net_http (>= 2.0, < 3.5)
       json
@@ -9,13 +10,24 @@ GEM
       net-http (~> 0.5)
     faraday-retry (2.3.2)
       faraday (~> 2.0)
-    inat-channel (0.8.0.2)
+    inat-channel (0.8.0.14)
       faraday (~> 2.14)
       faraday-retry (~> 2.3)
+      sanitize (~> 7.0)
     json (2.17.1)
     logger (1.7.0)
+    mini_portile2 (2.8.9)
     net-http (0.8.0)
       uri (>= 0.11.1)
+    nokogiri (1.18.10)
+      mini_portile2 (~> 2.8.2)
+      racc (~> 1.4)
+    nokogiri (1.18.10-x86_64-linux-gnu)
+      racc (~> 1.4)
+    racc (1.8.1)
+    sanitize (7.0.0)
+      crass (~> 1.0.2)
+      nokogiri (>= 1.16.8)
     uri (1.1.1)
 
 PLATFORMS
@@ -23,7 +35,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  inat-channel (~> 0.8.0.2)
+  inat-channel (~> 0.8.0.14)
 
 BUNDLED WITH
    2.6.9
