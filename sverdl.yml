@@ -17,26 +17,34 @@ days_back: 30
 
 chat_id: '@inat_sverdlobl'
 
+template: message.erb
+
 places:
   areas:
     - place_ids: [ 194161, 194433, 194456, 194268, 194269, 194303, 194304, 194162, 194163, 194305, 194435, 194559, 194528, 194560, 194457, 194458, 194270 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-vostochnogo-okruga-sverdlovskoy-oblasti
       text: Биоразнообразие Восточного округа Свердловской области
+      tag: EA
     - place_ids: [ 194207, 194138, 194046, 193930, 194385, 194137, 194209, 194049, 194208, 193931, 194386, 194048 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-gornozavodskogo-okruga-sverdlovskoy-oblasti
       text: Биоразнообразие Горнозаводского округа Свердловской области
+      tag: GA
     - place_ids: [ 194074 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-ekaterinburga
       text: Биоразнообразие Екатеринбурга
+      tag: EKB
     - place_ids: [ 193592, 193881, 193849, 194021, 193958, 193880, 193960, 193959, 194022, 194071, 193879, 193848, 193933, 194073 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-zapadnogo-okruga-sverdlovskoy-oblasti
       text: Биоразнообразие Западного округа Свердловской области
+      tag: WA
     - place_ids: [ 194486, 194346, 194526, 194345, 194347, 194387, 194240, 194413, 194239, 194414, 194412, 194487, 194241, 194488, 194527 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-severnogo-okruga-sverdlovskoy-oblasti
       text: Биоразнообразие Северного округа Свердловской области
+      tag: NA
     - place_ids: [ 193988, 194184, 194008, 194023, 194104, 194010, 194012, 194101, 194434, 193990, 194102, 194185, 194186, 193989, 194139 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-yuzhnogo-okruga-sverdlovskoy-oblasti
       text: Биоразнообразие Южного округа Свердловской области
+      tag: SA
   districts:
     - place_ids: [ 194161, 194162, 194163 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-alapaevska-i-alapaevskogo-rayona

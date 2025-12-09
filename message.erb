@@ -1,0 +1,18 @@
+<a href="<%= taxon.url %>"><%= taxon.title %></a>
+
+Наблюдение <a href="<%= observation.url %>">#<%= observation.id %></a> от <%= date %>
+Автор: <a href="<%= user.url %>"><%= user.title %></a>
+<% if observation.description -%>
+<blockquote><%= observation.description.text %></blockquote>
+<% end -%>
+
+⚑ <%= location.title %> • <a href="<%= location.google %>">G</a> <a href="<%= location.yandex %>">Y</a> <a href="<%= location.osm %>">OSM</a>
+<% if places && places.size > 0 -%>
+<%   places.each do |place| -%>
+✓ <a href="<%= place.link %>"><%= place.text %></a> <%= '• #' + place.tag if place.tag %>
+<%   end -%>
+<% else -%>
+<%=  observation.place_guess %>
+<% end -%>
+
+<%= taxon.to_tags.join(' • ') %>
