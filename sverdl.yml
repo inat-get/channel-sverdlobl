@@ -1,10 +1,9 @@
+data_files:
+  pool: 'data/pool.json'
+  sent: 'data/sent.json'
+  lock: 'data/data.lock'
 
-retries: 10
-pool_file: 'data/pool.json'
-sent_file: 'data/sent.json'
-lock_file: 'data/data.lock'
-
-log_level: debug
+log_level: info
 
 base_query:
   project_id: 175821
@@ -13,9 +12,11 @@ base_query:
   photo_license: 'cc-by,cc-by-nc,cc-by-nd,cc-by-sa,cc-by-nc-nd,cc-by-nc-sa,cc0'
   quality_grade: research
   
-days_back: 30
+days_back:
+  fresh: 30
 
-chat_id: '@inat_sverdlobl'
+tg_bot:
+  chat_id: '@inat_sverdlobl'
 
 template: message.erb
 
