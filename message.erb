@@ -6,7 +6,7 @@
 <blockquote><%= observation.description.text %></blockquote>
 <% end -%>
 
-⚑ <%= location.title %> • <a href="<%= location.google %>">G</a> <a href="<%= location.yandex %>">Y</a> <a href="<%= location.osm %>">OSM</a>
+⚑ <%= location.dms %> • <a href="<%= location.google %>">G</a> <a href="<%= location.yandex %>">Y</a> <a href="<%= location.osm %>">OSM</a>
 <% if places && places.size > 0 -%>
 <%   places.each do |place| -%>
 ✓ <a href="<%= place.link %>"><%= place.text %></a> <%= '• #' + place.tag if place.tag %>
