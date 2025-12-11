@@ -25,173 +25,222 @@ places:
   areas:
     - place_ids: [ 194161, 194433, 194456, 194268, 194269, 194303, 194304, 194162, 194163, 194305, 194435, 194559, 194528, 194560, 194457, 194458, 194270 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-vostochnogo-okruga-sverdlovskoy-oblasti
-      text: Биоразнообразие Восточного округа Свердловской области
+      text: Восточный административный округ
       tag: EA
     - place_ids: [ 194207, 194138, 194046, 193930, 194385, 194137, 194209, 194049, 194208, 193931, 194386, 194048 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-gornozavodskogo-okruga-sverdlovskoy-oblasti
-      text: Биоразнообразие Горнозаводского округа Свердловской области
+      text: Горнозаводской административный округ
       tag: GA
     - place_ids: [ 194074 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-ekaterinburga
-      text: Биоразнообразие Екатеринбурга
+      text: Екатеринбург
       tag: EKB
     - place_ids: [ 193592, 193881, 193849, 194021, 193958, 193880, 193960, 193959, 194022, 194071, 193879, 193848, 193933, 194073 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-zapadnogo-okruga-sverdlovskoy-oblasti
-      text: Биоразнообразие Западного округа Свердловской области
+      text: Западный административный округ
       tag: WA
     - place_ids: [ 194486, 194346, 194526, 194345, 194347, 194387, 194240, 194413, 194239, 194414, 194412, 194487, 194241, 194488, 194527 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-severnogo-okruga-sverdlovskoy-oblasti
-      text: Биоразнообразие Северного округа Свердловской области
+      text: Северный административный округ
       tag: NA
     - place_ids: [ 193988, 194184, 194008, 194023, 194104, 194010, 194012, 194101, 194434, 193990, 194102, 194185, 194186, 193989, 194139 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-yuzhnogo-okruga-sverdlovskoy-oblasti
-      text: Биоразнообразие Южного округа Свердловской области
+      text: Южный административный округ
       tag: SA
   districts:
     - place_ids: [ 194161, 194162, 194163 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-alapaevska-i-alapaevskogo-rayona
-      text: Биоразнообразие Алапаевска и Алапаевского района
+      text: Алапаевск и Алапаевский район
+      tag: ALA
     - place_ids: [ 193592 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-artinskogo-rayona
-      text: Биоразнообразие Артинского района
+      text: Артинскиё район
+      tag: RTI
     - place_ids: [ 194433 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-artyomovskogo-rayona
-      text: Биоразнообразие Артёмовского района
+      text: Артёмовский район
+      tag: RTE
     - place_ids: [ 194184, 194185, 194186 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-asbesta
-      text: Биоразнообразие Асбеста
+      text: Асбест
+      tag: ASB
     - place_ids: [ 193881 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-achitskogo-rayona
-      text: Биоразнообразие Ачитского района
+      text: Ачитский район
+      tag: ACH
     - place_ids: [ 194456 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-baykalovskogo-rayona
-      text: Биоразнообразие Байкаловского района
+      text: Байкаловский район
+      tag: BAY
     - place_ids: [ 194008, 194010, 193990 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-beloyarskogo-rayona
-      text: Биоразнообразие Белоярского района
+      text: Белоярский район
+      tag: BYA
     - place_ids: [ 194023 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-beryozovskogo
-      text: Биоразнообразие Берёзовского
+      text: Берёзовский
+      tag: BRZ
     - place_ids: [ 194104 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-bogdanovichskogo-rayona
-      text: Биоразнообразие Богдановичского района
+      text: Богдановичский район
+      tag: BGD
     - place_ids: [ 194021, 194022 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-verhney-pyshmy-i-sredneuralska
-      text: Биоразнообразие Верхней Пышмы и Среднеуральска
+      text: Верхняя Пышма и Среднеуральск
+      tag: VPS
     - place_ids: [ 194207, 194208 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-verhnesaldinskogo-rayona
-      text: Биоразнообразие Верхнесалдинского района
+      text: Верхнесалдинский район
+      tag: VSD
     - place_ids: [ 194486 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-verhoturskogo-rayona
-      text: Биоразнообразие Верхотурского района
+      text: Верхотурский район
+      tag: VTR
     - place_ids: [ 194526 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-garinskogo-rayona
-      text: Биоразнообразие Гаринского района
+      text: Гаринский район
+      tag: GAR
     - place_ids: [ 194012 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-zarechnogo
-      text: Биоразнообразие Заречного
+      text: Заречный
+      tag: ZRC
     - place_ids: [ 194240, 194239 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-ivdelya-i-pelyma
-      text: Биоразнообразие Ивделя и Пелыма
+      text: Ивдель и Пелым
+      tag: IVD
     - place_ids: [ 194268, 194269 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-irbita-i-irbitskogo-rayona
-      text: Биоразнообразие Ирбита и Ирбитского района
+      text: Ирбит и Ирбитский район
+      tag: IRB
     - place_ids: [ 194101, 194102 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-kamenska-uralskogo-i-kamenskogo-rayona
-      text: Биоразнообразие Каменска-Уральского и Каменского района
+      text: Каменск-Уральский и Каменский район
+      tag: KMU
     - place_ids: [ 194303, 194304 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-kamyshlova-i-kamyshlovskogo-rayona
-      text: Биоразнообразие Камышлова и Камышловского района
+      text: Камышлов и Камышловский район
+      tag: KMY
     - place_ids: [ 194346, 194345 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-karpinska-i-volchanska
-      text: Биоразнообразие Карпинска и Волчанска
+      text: Карпинск и Волчанск
+      tag: KRP
     - place_ids: [ 194414 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-kachkanara
-      text: Биоразнообразие Качканара
+      text: Качканар
+      tag: KCH
     - place_ids: [ 193930, 193931 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-kirovgrada-i-verhnego-tagila
-      text: Биоразнообразие Кировграда и Верхнего Тагила
+      text: Кировград и Верхний Тагил
+      tag: KYR
     - place_ids: [ 194347 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-krasnoturinska
-      text: Биоразнообразие Краснотурьинска
+      text: Краснотурьинск
+      tag: KTU
     - place_ids: [ 194387 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-krasnouralska
-      text: Биоразнообразие Красноуральска
+      text: Красноуральск
+      tag: KUR
     - place_ids: [ 193880, 193879 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-krasnoufimska-i-krasnoufimskogo-rayona
-      text: Биоразнообразие Красноуфимска и Красноуфимского района
+      text: Красноуфимск и Красноуфимский район
+      tag: KUF
     - place_ids: [ 194385, 194386 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-kushvy-i-verhney-tury
-      text: Биоразнообразие Кушвы и Верхней Туры
+      text: Кушва и Верхняя Тура
+      tag: KUS
     - place_ids: [ 194046, 194049, 194048 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-nevyanskogo-rayona-i-novouralska
-      text: Биоразнообразие Невьянского района и Новоуральска
+      text: Невьянский район и Новоуральск
+      tag: NEV
     - place_ids: [ 194137 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-nizhnego-tagila
-      text: Биоразнообразие Нижнего Тагила
+      text: Нижний Тагил
+      tag: NTG
     - place_ids: [ 194209 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-nizhney-saldy
-      text: Биоразнообразие Нижней Салды
+      text: Нижняя Салда
+      tag: NSD
     - place_ids: [ 194413, 194412 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-nizhney-tury-i-lesnogo
-      text: Биоразнообразие Нижней Туры и Лесного
+      text: Нижняя Тура и Лесной
+      tag: NTR
     - place_ids: [ 193849, 193848 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-nizhneserginskogo-rayona
-      text: Биоразнообразие Нижнесергинского района
+      text: Нижнесергинский район
+      tag: NSR
     - place_ids: [ 194487 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-novolyalinskogo-rayona
-      text: Биоразнообразие Новолялинского района
+      text: Новолялинский район
+      tag: NLL
     - place_ids: [ 193960 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-pervouralska
-      text: Биоразнообразие Первоуральска
+      text: Первоуральск
+      tag: PRV
     - place_ids: [ 193933 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-polevskogo
-      text: Биоразнообразие Полевского
+      text: Полевской
+      tag: POL
     - place_ids: [ 194138 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-prigorodnogo-rayona
-      text: Биоразнообразие Пригородного района
+      text: Пригородный район
+      tag: PRG
     - place_ids: [ 194305 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-pyshminskogo-rayona
-      text: Биоразнообразие Пышминского района
+      text: Пышминский район
+      tag: PSH
     - place_ids: [ 193958, 193959 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-revdy-i-degtyarska
-      text: Биоразнообразие Ревды и Дегтярска
+      text: Ревда и Дегтярск
+      tag: RVD
     - place_ids: [ 194435 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-rezhevskogo-rayona
-      text: Биоразнообразие Режевского района
+      text: Режевской район
+      tag: RZH
     - place_ids: [ 194241 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-severouralska
-      text: Биоразнообразие Североуральска
+      text: Североуральск
+      tag: SVU
     - place_ids: [ 194488 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-serova
-      text: Биоразнообразие Серова
+      text: Серов
+      tag: SER
     - place_ids: [ 194527 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-serovskogo-rayona-sosva
-      text: Биоразнообразие Серовского района (Сосьва)
+      text: Серовский район (Сосьва)
+      tag: SOS
     - place_ids: [ 194559 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-slobodo-turinskogo-rayona
-      text: Биоразнообразие Слободо-Туринского района
+      text: Слободо-Туринский район
+      tag: STU
     - place_ids: [ 194434 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-suholozhskogo-rayona
-      text: Биоразнообразие Сухоложского района
+      text: Сухоложский район
+      tag: SUH
     - place_ids: [ 193988, 193989, 194139 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-sysertskogo-rayona
-      text: Биоразнообразие Сысертского района
+      text: Сысертский район
+      tag: SYS
     - place_ids: [ 194528 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-taborinskogo-rayona
-      text: Биоразнообразие Таборинского района
+      text: Таборинский район
+      tag: TAB
     - place_ids: [ 194560 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-tavdinskogo-rayona
-      text: Биоразнообразие Тавдинского района
+      text: Тавдинский район
+      tag: TVD
     - place_ids: [ 194457 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-talitskogo-rayona
-      text: Биоразнообразие Талицкого района
+      text: Талицкий район
+      tag: TAL
     - place_ids: [ 194458 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-tugulymskogo-rayona
-      text: Биоразнообразие Тугулымского района
+      text: Тугулымский район
+      tag: TUG
     - place_ids: [ 194270 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-turinskogo-rayona
-      text: Биоразнообразие Туринского района
+      text: Туринский район
+      tag: TUR
     - place_ids: [ 194071, 194073 ]
       link: https://www.inaturalist.org/projects/bioraznoobrazie-shalinskogo-rayona
-      text: Биоразнообразие Шалинского района
+      text: Шалинский район
+      tag: SHA
