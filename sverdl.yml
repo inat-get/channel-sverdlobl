@@ -14,6 +14,7 @@ base_query:
   
 days_back:
   fresh: 30
+  pool: 180
 
 unique_taxon: strict
 
