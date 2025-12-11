@@ -1,8 +1,3 @@
-data_files:
-  pool: 'data/pool.json'
-  sent: 'data/sent.json'
-  lock: 'data/data.lock'
-
 log_level: info
 
 base_query:
