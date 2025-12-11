@@ -17,8 +17,7 @@ days_back:
 
 tg_bot:
   chat_id: '@inat_sverdlobl'
-
-template: message.erb
+  template: message.erb
 
 places:
   areas:
