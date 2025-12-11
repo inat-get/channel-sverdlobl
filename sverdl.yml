@@ -15,6 +15,8 @@ base_query:
 days_back:
   fresh: 30
 
+unique_taxon: strict
+
 tg_bot:
   chat_id: '@inat_sverdlobl'
   template: message.erb
