@@ -10,6 +10,7 @@ base_query:
 days_back:
   fresh: 30
   pool: 180
+  sent: 1000
 
 unique_taxon: strict
 
