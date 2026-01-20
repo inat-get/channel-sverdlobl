@@ -634,11 +634,6 @@
     "faves_count": 1,
     "taxon_id": 52402
   },
-  "6c667425-7cfb-4af5-bebf-7cd783b79b75": {
-    "created_at": "2025-12-15",
-    "faves_count": 1,
-    "taxon_id": 17835
-  },
   "27f493c6-a3d6-4048-b8c6-78ded70aa2c7": {
     "created_at": "2025-08-03",
     "faves_count": 1,
@@ -711,7 +706,7 @@
   },
   "a03dfbd8-2908-4656-a146-fa783959465d": {
     "created_at": "2026-01-04",
-    "faves_count": 2,
+    "faves_count": 3,
     "taxon_id": 7450
   },
   "9df851c9-83cb-4554-8011-1d96afa3d0d6": {
@@ -733,11 +728,6 @@
     "created_at": "2026-01-07",
     "faves_count": 1,
     "taxon_id": 520726
-  },
-  "8e7ca15c-f570-44dd-886e-ccada714aef5": {
-    "created_at": "2026-01-08",
-    "faves_count": 2,
-    "taxon_id": 17835
   },
   "890f8de7-a471-457a-9530-1fde43c93cd2": {
     "created_at": "2025-12-24",
@@ -779,20 +769,10 @@
     "faves_count": 1,
     "taxon_id": 629602
   },
-  "7b882ba0-eb90-4ce9-bf27-2c8bbc0ac824": {
-    "created_at": "2026-01-11",
-    "faves_count": 1,
-    "taxon_id": 17835
-  },
   "36a45c6b-2344-4aa7-a26d-a76a571b3d10": {
     "created_at": "2026-01-11",
     "faves_count": 2,
     "taxon_id": 145086
-  },
-  "692a6261-b1ba-4aa8-acb2-70876fffa233": {
-    "created_at": "2026-01-12",
-    "faves_count": 2,
-    "taxon_id": 17835
   },
   "a259836d-6d57-4b0d-922a-269a84b64011": {
     "created_at": "2026-01-12",
@@ -873,5 +853,30 @@
     "created_at": "2026-01-18",
     "faves_count": 1,
     "taxon_id": 145086
+  },
+  "b1de3da0-4a14-4457-91b8-7f6702f0f985": {
+    "created_at": "2026-01-20",
+    "faves_count": 1,
+    "taxon_id": 9801
+  },
+  "6fb6d101-f55f-4abd-9912-9fcb9bde9cc2": {
+    "created_at": "2026-01-20",
+    "faves_count": 1,
+    "taxon_id": 144809
+  },
+  "fff6dc7a-64bc-4b98-a918-53360515f1f5": {
+    "created_at": "2026-01-20",
+    "faves_count": 1,
+    "taxon_id": 363896
+  },
+  "bf833c1b-f145-422e-9d2a-15dc19bca255": {
+    "created_at": "2026-01-19",
+    "faves_count": 1,
+    "taxon_id": 145086
+  },
+  "0280b27c-cf99-4e23-99f4-46160cd33ffa": {
+    "created_at": "2026-01-12",
+    "faves_count": 1,
+    "taxon_id": 127029
   }
 }
