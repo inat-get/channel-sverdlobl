@@ -1,6 +1,6 @@
 <a href="<%= taxon.url %>"><%= taxon.title %></a>
 
-Наблюдение <a href="<%= observation.url %>">#<%= observation.id %></a> от <%= date.strftime('%d.%m.%Y') %>
+Наблюдение <a href="<%= observation.url %>">№<%= observation.id %></a> от <%= date.strftime('%d.%m.%Y') %>
 Автор: <a href="<%= user.url %>"><%= user.title %></a>
 <% if observation.description -%>
 <blockquote><%= observation.description.text %></blockquote>
