@@ -524,16 +524,6 @@
     "faves_count": 1,
     "taxon_id": 949
   },
-  "86deb643-38c5-4e87-8931-cab622875322": {
-    "created_at": "2025-08-01",
-    "faves_count": 1,
-    "taxon_id": 1243172
-  },
-  "1795c293-eeb1-499c-97f8-4b85b85b59f2": {
-    "created_at": "2025-08-01",
-    "faves_count": 2,
-    "taxon_id": 1243172
-  },
   "97da43ec-2fbd-4913-8c1c-771fd8a42ebb": {
     "created_at": "2025-12-11",
     "faves_count": 1,
@@ -583,11 +573,6 @@
     "created_at": "2025-12-17",
     "faves_count": 1,
     "taxon_id": 4627
-  },
-  "1a24b02c-cc4c-43b6-9b63-4558c606f3e9": {
-    "created_at": "2025-12-20",
-    "faves_count": 2,
-    "taxon_id": 9462
   },
   "69bd0c39-80b7-47a9-94f2-bf0cf9b9f45c": {
     "created_at": "2025-12-22",
@@ -644,11 +629,6 @@
     "faves_count": 3,
     "taxon_id": 7450
   },
-  "9df851c9-83cb-4554-8011-1d96afa3d0d6": {
-    "created_at": "2026-01-04",
-    "faves_count": 2,
-    "taxon_id": 9462
-  },
   "007e7fcd-0e51-48d4-8f3b-92739b097a75": {
     "created_at": "2026-01-03",
     "faves_count": 1,
@@ -673,11 +653,6 @@
     "created_at": "2025-12-20",
     "faves_count": 1,
     "taxon_id": 558438
-  },
-  "99384b72-e126-4c5e-b654-29f9ded28d2c": {
-    "created_at": "2026-01-10",
-    "faves_count": 2,
-    "taxon_id": 9462
   },
   "c3fa2f88-3eb3-40e7-98a8-cf88c72ddff4": {
     "created_at": "2026-01-10",
@@ -779,24 +754,14 @@
     "faves_count": 1,
     "taxon_id": 6916
   },
-  "98943dd4-e4ba-4cfb-9a9d-c10d30cbf7c9": {
-    "created_at": "2026-01-17",
-    "faves_count": 1,
-    "taxon_id": 9462
-  },
   "cc632589-d962-4d2c-abd5-8183faa069c5": {
     "created_at": "2025-08-14",
     "faves_count": 1,
     "taxon_id": 556923
   },
-  "5362190a-bf79-4f7e-8424-70a21e29a1f0": {
-    "created_at": "2025-08-01",
+  "ecc27a43-7096-4734-920e-7538830fca86": {
+    "created_at": "2026-01-28",
     "faves_count": 1,
-    "taxon_id": 56154
-  },
-  "357d57a5-006a-4617-a26a-76dad2b1cbe3": {
-    "created_at": "2025-08-01",
-    "faves_count": 1,
-    "taxon_id": 57500
+    "taxon_id": 46001
   }
 }
