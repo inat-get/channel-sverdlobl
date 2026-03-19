@@ -16,7 +16,7 @@ GEM
       is-dsl (~> 0.8)
       sanitize (~> 7.0)
     is-dsl (0.8.0)
-    json (2.18.1)
+    json (2.19.2)
     logger (1.7.0)
     mini_portile2 (2.8.9)
     net-http (0.9.1)
